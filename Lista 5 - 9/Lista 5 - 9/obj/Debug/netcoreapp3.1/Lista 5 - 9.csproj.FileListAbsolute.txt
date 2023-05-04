@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\Lista 5 - 9\Lista 5 - 9\bin\Debug\netcoreapp3.1\Lista 5 - 9.exe
+C:\Users\danie\source\repos\Lista 5 - 9\Lista 5 - 9\bin\Debug\netcoreapp3.1\Lista 5 - 9.deps.json
+C:\Users\danie\source\repos\Lista 5 - 9\Lista 5 - 9\bin\Debug\netcoreapp3.1\Lista 5 - 9.runtimeconfig.json
+C:\Users\danie\source\repos\Lista 5 - 9\Lista 5 - 9\bin\Debug\netcoreapp3.1\Lista 5 - 9.runtimeconfig.dev.json
+C:\Users\danie\source\repos\Lista 5 - 9\Lista 5 - 9\bin\Debug\netcoreapp3.1\Lista 5 - 9.dll
+C:\Users\danie\source\repos\Lista 5 - 9\Lista 5 - 9\bin\Debug\netcoreapp3.1\Lista 5 - 9.pdb
+C:\Users\danie\source\repos\Lista 5 - 9\Lista 5 - 9\obj\Debug\netcoreapp3.1\Lista 5 - 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Lista 5 - 9\Lista 5 - 9\obj\Debug\netcoreapp3.1\Lista 5 - 9.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Lista 5 - 9\Lista 5 - 9\obj\Debug\netcoreapp3.1\Lista 5 - 9.AssemblyInfo.cs
+C:\Users\danie\source\repos\Lista 5 - 9\Lista 5 - 9\obj\Debug\netcoreapp3.1\Lista 5 - 9.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Lista 5 - 9\Lista 5 - 9\obj\Debug\netcoreapp3.1\Lista 5 - 9.dll
+C:\Users\danie\source\repos\Lista 5 - 9\Lista 5 - 9\obj\Debug\netcoreapp3.1\Lista 5 - 9.pdb
+C:\Users\danie\source\repos\Lista 5 - 9\Lista 5 - 9\obj\Debug\netcoreapp3.1\Lista 5 - 9.genruntimeconfig.cache
+C:\Users\danie\source\repos\Lista 5 - 9\Lista 5 - 9\obj\Debug\netcoreapp3.1\Lista 5 - 9.csproj.AssemblyReference.cache

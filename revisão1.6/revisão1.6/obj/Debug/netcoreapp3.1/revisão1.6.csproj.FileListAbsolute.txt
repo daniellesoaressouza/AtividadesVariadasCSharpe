@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\revisão1.6\revisão1.6\bin\Debug\netcoreapp3.1\revisão1.6.exe
+C:\Users\danie\source\repos\revisão1.6\revisão1.6\bin\Debug\netcoreapp3.1\revisão1.6.deps.json
+C:\Users\danie\source\repos\revisão1.6\revisão1.6\bin\Debug\netcoreapp3.1\revisão1.6.runtimeconfig.json
+C:\Users\danie\source\repos\revisão1.6\revisão1.6\bin\Debug\netcoreapp3.1\revisão1.6.runtimeconfig.dev.json
+C:\Users\danie\source\repos\revisão1.6\revisão1.6\bin\Debug\netcoreapp3.1\revisão1.6.dll
+C:\Users\danie\source\repos\revisão1.6\revisão1.6\bin\Debug\netcoreapp3.1\revisão1.6.pdb
+C:\Users\danie\source\repos\revisão1.6\revisão1.6\obj\Debug\netcoreapp3.1\revisão1.6.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\revisão1.6\revisão1.6\obj\Debug\netcoreapp3.1\revisão1.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\revisão1.6\revisão1.6\obj\Debug\netcoreapp3.1\revisão1.6.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\revisão1.6\revisão1.6\obj\Debug\netcoreapp3.1\revisão1.6.AssemblyInfo.cs
+C:\Users\danie\source\repos\revisão1.6\revisão1.6\obj\Debug\netcoreapp3.1\revisão1.6.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\revisão1.6\revisão1.6\obj\Debug\netcoreapp3.1\revisão1.6.dll
+C:\Users\danie\source\repos\revisão1.6\revisão1.6\obj\Debug\netcoreapp3.1\revisão1.6.pdb
+C:\Users\danie\source\repos\revisão1.6\revisão1.6\obj\Debug\netcoreapp3.1\revisão1.6.genruntimeconfig.cache

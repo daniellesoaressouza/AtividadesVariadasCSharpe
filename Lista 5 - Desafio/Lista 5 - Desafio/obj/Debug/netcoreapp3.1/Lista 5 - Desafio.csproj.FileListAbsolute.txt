@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\Lista 5 - Desafio\Lista 5 - Desafio\bin\Debug\netcoreapp3.1\Lista 5 - Desafio.exe
+C:\Users\danie\source\repos\Lista 5 - Desafio\Lista 5 - Desafio\bin\Debug\netcoreapp3.1\Lista 5 - Desafio.deps.json
+C:\Users\danie\source\repos\Lista 5 - Desafio\Lista 5 - Desafio\bin\Debug\netcoreapp3.1\Lista 5 - Desafio.runtimeconfig.json
+C:\Users\danie\source\repos\Lista 5 - Desafio\Lista 5 - Desafio\bin\Debug\netcoreapp3.1\Lista 5 - Desafio.runtimeconfig.dev.json
+C:\Users\danie\source\repos\Lista 5 - Desafio\Lista 5 - Desafio\bin\Debug\netcoreapp3.1\Lista 5 - Desafio.dll
+C:\Users\danie\source\repos\Lista 5 - Desafio\Lista 5 - Desafio\bin\Debug\netcoreapp3.1\Lista 5 - Desafio.pdb
+C:\Users\danie\source\repos\Lista 5 - Desafio\Lista 5 - Desafio\obj\Debug\netcoreapp3.1\Lista 5 - Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Lista 5 - Desafio\Lista 5 - Desafio\obj\Debug\netcoreapp3.1\Lista 5 - Desafio.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Lista 5 - Desafio\Lista 5 - Desafio\obj\Debug\netcoreapp3.1\Lista 5 - Desafio.AssemblyInfo.cs
+C:\Users\danie\source\repos\Lista 5 - Desafio\Lista 5 - Desafio\obj\Debug\netcoreapp3.1\Lista 5 - Desafio.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Lista 5 - Desafio\Lista 5 - Desafio\obj\Debug\netcoreapp3.1\Lista 5 - Desafio.dll
+C:\Users\danie\source\repos\Lista 5 - Desafio\Lista 5 - Desafio\obj\Debug\netcoreapp3.1\Lista 5 - Desafio.pdb
+C:\Users\danie\source\repos\Lista 5 - Desafio\Lista 5 - Desafio\obj\Debug\netcoreapp3.1\Lista 5 - Desafio.genruntimeconfig.cache

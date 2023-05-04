@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\desafioDanio\desafioDanio\bin\Debug\netcoreapp3.1\desafioDanio.exe
+C:\Users\danie\source\repos\desafioDanio\desafioDanio\bin\Debug\netcoreapp3.1\desafioDanio.deps.json
+C:\Users\danie\source\repos\desafioDanio\desafioDanio\bin\Debug\netcoreapp3.1\desafioDanio.runtimeconfig.json
+C:\Users\danie\source\repos\desafioDanio\desafioDanio\bin\Debug\netcoreapp3.1\desafioDanio.runtimeconfig.dev.json
+C:\Users\danie\source\repos\desafioDanio\desafioDanio\bin\Debug\netcoreapp3.1\desafioDanio.dll
+C:\Users\danie\source\repos\desafioDanio\desafioDanio\bin\Debug\netcoreapp3.1\desafioDanio.pdb
+C:\Users\danie\source\repos\desafioDanio\desafioDanio\obj\Debug\netcoreapp3.1\desafioDanio.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\desafioDanio\desafioDanio\obj\Debug\netcoreapp3.1\desafioDanio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\desafioDanio\desafioDanio\obj\Debug\netcoreapp3.1\desafioDanio.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\desafioDanio\desafioDanio\obj\Debug\netcoreapp3.1\desafioDanio.AssemblyInfo.cs
+C:\Users\danie\source\repos\desafioDanio\desafioDanio\obj\Debug\netcoreapp3.1\desafioDanio.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\desafioDanio\desafioDanio\obj\Debug\netcoreapp3.1\desafioDanio.dll
+C:\Users\danie\source\repos\desafioDanio\desafioDanio\obj\Debug\netcoreapp3.1\desafioDanio.pdb
+C:\Users\danie\source\repos\desafioDanio\desafioDanio\obj\Debug\netcoreapp3.1\desafioDanio.genruntimeconfig.cache

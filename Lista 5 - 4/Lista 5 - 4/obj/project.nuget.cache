@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RSq8JvcqDkKgHH986BYVGvTxa/E3hb8Jkzy3xrSIqsaIppZISlcpljpxAQ3uLmCp76x9VhF/1tneeuzF5lKkxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\source\\repos\\Lista 5 - 4\\Lista 5 - 4\\Lista 5 - 4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}

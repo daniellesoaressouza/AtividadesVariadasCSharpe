@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\Lista 4 - Questão 3\Lista 4 - Questão 3\bin\Debug\netcoreapp3.1\Lista 4 - Questão 3.exe
+C:\Users\danie\source\repos\Lista 4 - Questão 3\Lista 4 - Questão 3\bin\Debug\netcoreapp3.1\Lista 4 - Questão 3.deps.json
+C:\Users\danie\source\repos\Lista 4 - Questão 3\Lista 4 - Questão 3\bin\Debug\netcoreapp3.1\Lista 4 - Questão 3.runtimeconfig.json
+C:\Users\danie\source\repos\Lista 4 - Questão 3\Lista 4 - Questão 3\bin\Debug\netcoreapp3.1\Lista 4 - Questão 3.runtimeconfig.dev.json
+C:\Users\danie\source\repos\Lista 4 - Questão 3\Lista 4 - Questão 3\bin\Debug\netcoreapp3.1\Lista 4 - Questão 3.dll
+C:\Users\danie\source\repos\Lista 4 - Questão 3\Lista 4 - Questão 3\bin\Debug\netcoreapp3.1\Lista 4 - Questão 3.pdb
+C:\Users\danie\source\repos\Lista 4 - Questão 3\Lista 4 - Questão 3\obj\Debug\netcoreapp3.1\Lista 4 - Questão 3.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Lista 4 - Questão 3\Lista 4 - Questão 3\obj\Debug\netcoreapp3.1\Lista 4 - Questão 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Lista 4 - Questão 3\Lista 4 - Questão 3\obj\Debug\netcoreapp3.1\Lista 4 - Questão 3.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Lista 4 - Questão 3\Lista 4 - Questão 3\obj\Debug\netcoreapp3.1\Lista 4 - Questão 3.AssemblyInfo.cs
+C:\Users\danie\source\repos\Lista 4 - Questão 3\Lista 4 - Questão 3\obj\Debug\netcoreapp3.1\Lista 4 - Questão 3.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Lista 4 - Questão 3\Lista 4 - Questão 3\obj\Debug\netcoreapp3.1\Lista 4 - Questão 3.dll
+C:\Users\danie\source\repos\Lista 4 - Questão 3\Lista 4 - Questão 3\obj\Debug\netcoreapp3.1\Lista 4 - Questão 3.pdb
+C:\Users\danie\source\repos\Lista 4 - Questão 3\Lista 4 - Questão 3\obj\Debug\netcoreapp3.1\Lista 4 - Questão 3.genruntimeconfig.cache

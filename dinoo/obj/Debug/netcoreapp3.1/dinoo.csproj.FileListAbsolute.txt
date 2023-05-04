@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\dinoo\bin\Debug\netcoreapp3.1\dinoo.exe
+C:\Users\danie\source\repos\dinoo\bin\Debug\netcoreapp3.1\dinoo.deps.json
+C:\Users\danie\source\repos\dinoo\bin\Debug\netcoreapp3.1\dinoo.runtimeconfig.json
+C:\Users\danie\source\repos\dinoo\bin\Debug\netcoreapp3.1\dinoo.runtimeconfig.dev.json
+C:\Users\danie\source\repos\dinoo\bin\Debug\netcoreapp3.1\dinoo.dll
+C:\Users\danie\source\repos\dinoo\bin\Debug\netcoreapp3.1\dinoo.pdb
+C:\Users\danie\source\repos\dinoo\obj\Debug\netcoreapp3.1\dinoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\dinoo\obj\Debug\netcoreapp3.1\dinoo.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\dinoo\obj\Debug\netcoreapp3.1\dinoo.AssemblyInfo.cs
+C:\Users\danie\source\repos\dinoo\obj\Debug\netcoreapp3.1\dinoo.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\dinoo\obj\Debug\netcoreapp3.1\dinoo.dll
+C:\Users\danie\source\repos\dinoo\obj\Debug\netcoreapp3.1\dinoo.pdb
+C:\Users\danie\source\repos\dinoo\obj\Debug\netcoreapp3.1\dinoo.genruntimeconfig.cache
+C:\Users\danie\source\repos\dinoo\obj\Debug\netcoreapp3.1\dinoo.csproj.AssemblyReference.cache

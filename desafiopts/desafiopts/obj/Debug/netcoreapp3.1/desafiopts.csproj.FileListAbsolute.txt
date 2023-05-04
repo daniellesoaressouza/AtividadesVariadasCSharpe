@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\desafiopts\desafiopts\obj\Debug\netcoreapp3.1\desafiopts.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\desafiopts\desafiopts\obj\Debug\netcoreapp3.1\desafiopts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\desafiopts\desafiopts\obj\Debug\netcoreapp3.1\desafiopts.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\desafiopts\desafiopts\obj\Debug\netcoreapp3.1\desafiopts.AssemblyInfo.cs
+C:\Users\danie\source\repos\desafiopts\desafiopts\obj\Debug\netcoreapp3.1\desafiopts.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\desafiopts\desafiopts\bin\Debug\netcoreapp3.1\desafiopts.exe
+C:\Users\danie\source\repos\desafiopts\desafiopts\bin\Debug\netcoreapp3.1\desafiopts.deps.json
+C:\Users\danie\source\repos\desafiopts\desafiopts\bin\Debug\netcoreapp3.1\desafiopts.runtimeconfig.json
+C:\Users\danie\source\repos\desafiopts\desafiopts\bin\Debug\netcoreapp3.1\desafiopts.runtimeconfig.dev.json
+C:\Users\danie\source\repos\desafiopts\desafiopts\bin\Debug\netcoreapp3.1\desafiopts.dll
+C:\Users\danie\source\repos\desafiopts\desafiopts\bin\Debug\netcoreapp3.1\desafiopts.pdb
+C:\Users\danie\source\repos\desafiopts\desafiopts\obj\Debug\netcoreapp3.1\desafiopts.dll
+C:\Users\danie\source\repos\desafiopts\desafiopts\obj\Debug\netcoreapp3.1\desafiopts.pdb
+C:\Users\danie\source\repos\desafiopts\desafiopts\obj\Debug\netcoreapp3.1\desafiopts.genruntimeconfig.cache

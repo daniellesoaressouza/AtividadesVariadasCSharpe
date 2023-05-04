@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\Jogo Dino\bin\Debug\netcoreapp3.1\Jogo Dino.exe
+C:\Users\danie\source\repos\Jogo Dino\bin\Debug\netcoreapp3.1\Jogo Dino.deps.json
+C:\Users\danie\source\repos\Jogo Dino\bin\Debug\netcoreapp3.1\Jogo Dino.runtimeconfig.json
+C:\Users\danie\source\repos\Jogo Dino\bin\Debug\netcoreapp3.1\Jogo Dino.runtimeconfig.dev.json
+C:\Users\danie\source\repos\Jogo Dino\bin\Debug\netcoreapp3.1\Jogo Dino.dll
+C:\Users\danie\source\repos\Jogo Dino\bin\Debug\netcoreapp3.1\Jogo Dino.pdb
+C:\Users\danie\source\repos\Jogo Dino\obj\Debug\netcoreapp3.1\Jogo Dino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Jogo Dino\obj\Debug\netcoreapp3.1\Jogo Dino.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Jogo Dino\obj\Debug\netcoreapp3.1\Jogo Dino.AssemblyInfo.cs
+C:\Users\danie\source\repos\Jogo Dino\obj\Debug\netcoreapp3.1\Jogo Dino.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Jogo Dino\obj\Debug\netcoreapp3.1\Jogo Dino.dll
+C:\Users\danie\source\repos\Jogo Dino\obj\Debug\netcoreapp3.1\Jogo Dino.pdb
+C:\Users\danie\source\repos\Jogo Dino\obj\Debug\netcoreapp3.1\Jogo Dino.genruntimeconfig.cache

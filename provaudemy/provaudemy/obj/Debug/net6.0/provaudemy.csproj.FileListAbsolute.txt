@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\provaudemy\provaudemy\bin\Debug\net6.0\provaudemy.exe
+C:\Users\danie\source\repos\provaudemy\provaudemy\bin\Debug\net6.0\provaudemy.deps.json
+C:\Users\danie\source\repos\provaudemy\provaudemy\bin\Debug\net6.0\provaudemy.runtimeconfig.json
+C:\Users\danie\source\repos\provaudemy\provaudemy\bin\Debug\net6.0\provaudemy.dll
+C:\Users\danie\source\repos\provaudemy\provaudemy\bin\Debug\net6.0\provaudemy.pdb
+C:\Users\danie\source\repos\provaudemy\provaudemy\obj\Debug\net6.0\provaudemy.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\provaudemy\provaudemy\obj\Debug\net6.0\provaudemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\provaudemy\provaudemy\obj\Debug\net6.0\provaudemy.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\provaudemy\provaudemy\obj\Debug\net6.0\provaudemy.AssemblyInfo.cs
+C:\Users\danie\source\repos\provaudemy\provaudemy\obj\Debug\net6.0\provaudemy.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\provaudemy\provaudemy\obj\Debug\net6.0\provaudemy.dll
+C:\Users\danie\source\repos\provaudemy\provaudemy\obj\Debug\net6.0\refint\provaudemy.dll
+C:\Users\danie\source\repos\provaudemy\provaudemy\obj\Debug\net6.0\provaudemy.pdb
+C:\Users\danie\source\repos\provaudemy\provaudemy\obj\Debug\net6.0\provaudemy.genruntimeconfig.cache
+C:\Users\danie\source\repos\provaudemy\provaudemy\obj\Debug\net6.0\ref\provaudemy.dll

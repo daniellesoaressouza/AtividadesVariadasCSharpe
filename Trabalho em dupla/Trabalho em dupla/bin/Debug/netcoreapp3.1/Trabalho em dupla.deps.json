@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Trabalho em dupla/1.0.0": {
+        "runtime": {
+          "Trabalho em dupla.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Trabalho em dupla/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

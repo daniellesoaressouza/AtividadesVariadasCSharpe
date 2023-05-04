@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\jogo\jogo\bin\Debug\netcoreapp3.1\jogo.exe
+C:\Users\danie\source\repos\jogo\jogo\bin\Debug\netcoreapp3.1\jogo.deps.json
+C:\Users\danie\source\repos\jogo\jogo\bin\Debug\netcoreapp3.1\jogo.runtimeconfig.json
+C:\Users\danie\source\repos\jogo\jogo\bin\Debug\netcoreapp3.1\jogo.runtimeconfig.dev.json
+C:\Users\danie\source\repos\jogo\jogo\bin\Debug\netcoreapp3.1\jogo.dll
+C:\Users\danie\source\repos\jogo\jogo\bin\Debug\netcoreapp3.1\jogo.pdb
+C:\Users\danie\source\repos\jogo\jogo\obj\Debug\netcoreapp3.1\jogo.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\jogo\jogo\obj\Debug\netcoreapp3.1\jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\jogo\jogo\obj\Debug\netcoreapp3.1\jogo.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\jogo\jogo\obj\Debug\netcoreapp3.1\jogo.AssemblyInfo.cs
+C:\Users\danie\source\repos\jogo\jogo\obj\Debug\netcoreapp3.1\jogo.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\jogo\jogo\obj\Debug\netcoreapp3.1\jogo.dll
+C:\Users\danie\source\repos\jogo\jogo\obj\Debug\netcoreapp3.1\jogo.pdb
+C:\Users\danie\source\repos\jogo\jogo\obj\Debug\netcoreapp3.1\jogo.genruntimeconfig.cache

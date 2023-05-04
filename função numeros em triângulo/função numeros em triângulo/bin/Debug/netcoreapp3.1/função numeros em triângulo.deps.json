@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "função numeros em triângulo/1.0.0": {
+        "runtime": {
+          "função numeros em triângulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "função numeros em triângulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

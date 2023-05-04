@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\Trabalho em dupla\Trabalho em dupla\bin\Debug\netcoreapp3.1\Trabalho em dupla.exe
+C:\Users\danie\source\repos\Trabalho em dupla\Trabalho em dupla\bin\Debug\netcoreapp3.1\Trabalho em dupla.deps.json
+C:\Users\danie\source\repos\Trabalho em dupla\Trabalho em dupla\bin\Debug\netcoreapp3.1\Trabalho em dupla.runtimeconfig.json
+C:\Users\danie\source\repos\Trabalho em dupla\Trabalho em dupla\bin\Debug\netcoreapp3.1\Trabalho em dupla.runtimeconfig.dev.json
+C:\Users\danie\source\repos\Trabalho em dupla\Trabalho em dupla\bin\Debug\netcoreapp3.1\Trabalho em dupla.dll
+C:\Users\danie\source\repos\Trabalho em dupla\Trabalho em dupla\bin\Debug\netcoreapp3.1\Trabalho em dupla.pdb
+C:\Users\danie\source\repos\Trabalho em dupla\Trabalho em dupla\obj\Debug\netcoreapp3.1\Trabalho em dupla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Trabalho em dupla\Trabalho em dupla\obj\Debug\netcoreapp3.1\Trabalho em dupla.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Trabalho em dupla\Trabalho em dupla\obj\Debug\netcoreapp3.1\Trabalho em dupla.AssemblyInfo.cs
+C:\Users\danie\source\repos\Trabalho em dupla\Trabalho em dupla\obj\Debug\netcoreapp3.1\Trabalho em dupla.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Trabalho em dupla\Trabalho em dupla\obj\Debug\netcoreapp3.1\Trabalho em dupla.dll
+C:\Users\danie\source\repos\Trabalho em dupla\Trabalho em dupla\obj\Debug\netcoreapp3.1\Trabalho em dupla.pdb
+C:\Users\danie\source\repos\Trabalho em dupla\Trabalho em dupla\obj\Debug\netcoreapp3.1\Trabalho em dupla.genruntimeconfig.cache
+C:\Users\danie\source\repos\Trabalho em dupla\Trabalho em dupla\obj\Debug\netcoreapp3.1\Trabalho em dupla.csproj.AssemblyReference.cache

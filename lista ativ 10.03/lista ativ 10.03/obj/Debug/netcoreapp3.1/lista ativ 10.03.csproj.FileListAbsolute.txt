@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\lista ativ 10.03\lista ativ 10.03\bin\Debug\netcoreapp3.1\lista ativ 10.03.exe
+C:\Users\danie\source\repos\lista ativ 10.03\lista ativ 10.03\bin\Debug\netcoreapp3.1\lista ativ 10.03.deps.json
+C:\Users\danie\source\repos\lista ativ 10.03\lista ativ 10.03\bin\Debug\netcoreapp3.1\lista ativ 10.03.runtimeconfig.json
+C:\Users\danie\source\repos\lista ativ 10.03\lista ativ 10.03\bin\Debug\netcoreapp3.1\lista ativ 10.03.runtimeconfig.dev.json
+C:\Users\danie\source\repos\lista ativ 10.03\lista ativ 10.03\bin\Debug\netcoreapp3.1\lista ativ 10.03.dll
+C:\Users\danie\source\repos\lista ativ 10.03\lista ativ 10.03\bin\Debug\netcoreapp3.1\lista ativ 10.03.pdb
+C:\Users\danie\source\repos\lista ativ 10.03\lista ativ 10.03\obj\Debug\netcoreapp3.1\lista ativ 10.03.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\lista ativ 10.03\lista ativ 10.03\obj\Debug\netcoreapp3.1\lista ativ 10.03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\lista ativ 10.03\lista ativ 10.03\obj\Debug\netcoreapp3.1\lista ativ 10.03.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\lista ativ 10.03\lista ativ 10.03\obj\Debug\netcoreapp3.1\lista ativ 10.03.AssemblyInfo.cs
+C:\Users\danie\source\repos\lista ativ 10.03\lista ativ 10.03\obj\Debug\netcoreapp3.1\lista ativ 10.03.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\lista ativ 10.03\lista ativ 10.03\obj\Debug\netcoreapp3.1\lista ativ 10.03.dll
+C:\Users\danie\source\repos\lista ativ 10.03\lista ativ 10.03\obj\Debug\netcoreapp3.1\lista ativ 10.03.pdb
+C:\Users\danie\source\repos\lista ativ 10.03\lista ativ 10.03\obj\Debug\netcoreapp3.1\lista ativ 10.03.genruntimeconfig.cache

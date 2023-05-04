@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\lista2\lista2\bin\Debug\netcoreapp3.1\lista2.exe
+C:\Users\danie\source\repos\lista2\lista2\bin\Debug\netcoreapp3.1\lista2.deps.json
+C:\Users\danie\source\repos\lista2\lista2\bin\Debug\netcoreapp3.1\lista2.runtimeconfig.json
+C:\Users\danie\source\repos\lista2\lista2\bin\Debug\netcoreapp3.1\lista2.runtimeconfig.dev.json
+C:\Users\danie\source\repos\lista2\lista2\bin\Debug\netcoreapp3.1\lista2.dll
+C:\Users\danie\source\repos\lista2\lista2\bin\Debug\netcoreapp3.1\lista2.pdb
+C:\Users\danie\source\repos\lista2\lista2\obj\Debug\netcoreapp3.1\lista2.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\lista2\lista2\obj\Debug\netcoreapp3.1\lista2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\lista2\lista2\obj\Debug\netcoreapp3.1\lista2.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\lista2\lista2\obj\Debug\netcoreapp3.1\lista2.AssemblyInfo.cs
+C:\Users\danie\source\repos\lista2\lista2\obj\Debug\netcoreapp3.1\lista2.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\lista2\lista2\obj\Debug\netcoreapp3.1\lista2.dll
+C:\Users\danie\source\repos\lista2\lista2\obj\Debug\netcoreapp3.1\lista2.pdb
+C:\Users\danie\source\repos\lista2\lista2\obj\Debug\netcoreapp3.1\lista2.genruntimeconfig.cache

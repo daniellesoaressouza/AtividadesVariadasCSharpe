@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\função numeros em triângulo\função numeros em triângulo\bin\Debug\netcoreapp3.1\função numeros em triângulo.exe
+C:\Users\danie\source\repos\função numeros em triângulo\função numeros em triângulo\bin\Debug\netcoreapp3.1\função numeros em triângulo.deps.json
+C:\Users\danie\source\repos\função numeros em triângulo\função numeros em triângulo\bin\Debug\netcoreapp3.1\função numeros em triângulo.runtimeconfig.json
+C:\Users\danie\source\repos\função numeros em triângulo\função numeros em triângulo\bin\Debug\netcoreapp3.1\função numeros em triângulo.runtimeconfig.dev.json
+C:\Users\danie\source\repos\função numeros em triângulo\função numeros em triângulo\bin\Debug\netcoreapp3.1\função numeros em triângulo.dll
+C:\Users\danie\source\repos\função numeros em triângulo\função numeros em triângulo\bin\Debug\netcoreapp3.1\função numeros em triângulo.pdb
+C:\Users\danie\source\repos\função numeros em triângulo\função numeros em triângulo\obj\Debug\netcoreapp3.1\função numeros em triângulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\função numeros em triângulo\função numeros em triângulo\obj\Debug\netcoreapp3.1\função numeros em triângulo.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\função numeros em triângulo\função numeros em triângulo\obj\Debug\netcoreapp3.1\função numeros em triângulo.AssemblyInfo.cs
+C:\Users\danie\source\repos\função numeros em triângulo\função numeros em triângulo\obj\Debug\netcoreapp3.1\função numeros em triângulo.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\função numeros em triângulo\função numeros em triângulo\obj\Debug\netcoreapp3.1\função numeros em triângulo.dll
+C:\Users\danie\source\repos\função numeros em triângulo\função numeros em triângulo\obj\Debug\netcoreapp3.1\função numeros em triângulo.pdb
+C:\Users\danie\source\repos\função numeros em triângulo\função numeros em triângulo\obj\Debug\netcoreapp3.1\função numeros em triângulo.genruntimeconfig.cache
+C:\Users\danie\source\repos\função numeros em triângulo\função numeros em triângulo\obj\Debug\netcoreapp3.1\função numeros em triângulo.csproj.AssemblyReference.cache

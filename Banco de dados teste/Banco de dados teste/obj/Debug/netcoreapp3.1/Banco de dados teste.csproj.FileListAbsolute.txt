@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\Banco de dados teste\Banco de dados teste\bin\Debug\netcoreapp3.1\Banco de dados teste.exe
+C:\Users\danie\source\repos\Banco de dados teste\Banco de dados teste\bin\Debug\netcoreapp3.1\Banco de dados teste.deps.json
+C:\Users\danie\source\repos\Banco de dados teste\Banco de dados teste\bin\Debug\netcoreapp3.1\Banco de dados teste.runtimeconfig.json
+C:\Users\danie\source\repos\Banco de dados teste\Banco de dados teste\bin\Debug\netcoreapp3.1\Banco de dados teste.runtimeconfig.dev.json
+C:\Users\danie\source\repos\Banco de dados teste\Banco de dados teste\bin\Debug\netcoreapp3.1\Banco de dados teste.dll
+C:\Users\danie\source\repos\Banco de dados teste\Banco de dados teste\bin\Debug\netcoreapp3.1\Banco de dados teste.pdb
+C:\Users\danie\source\repos\Banco de dados teste\Banco de dados teste\obj\Debug\netcoreapp3.1\Banco de dados teste.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Banco de dados teste\Banco de dados teste\obj\Debug\netcoreapp3.1\Banco de dados teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Banco de dados teste\Banco de dados teste\obj\Debug\netcoreapp3.1\Banco de dados teste.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Banco de dados teste\Banco de dados teste\obj\Debug\netcoreapp3.1\Banco de dados teste.AssemblyInfo.cs
+C:\Users\danie\source\repos\Banco de dados teste\Banco de dados teste\obj\Debug\netcoreapp3.1\Banco de dados teste.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Banco de dados teste\Banco de dados teste\obj\Debug\netcoreapp3.1\Banco de dados teste.dll
+C:\Users\danie\source\repos\Banco de dados teste\Banco de dados teste\obj\Debug\netcoreapp3.1\Banco de dados teste.pdb
+C:\Users\danie\source\repos\Banco de dados teste\Banco de dados teste\obj\Debug\netcoreapp3.1\Banco de dados teste.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\jogodeplataforma\jogodeplataforma\bin\Debug\netcoreapp3.1\jogodeplataforma.exe
+C:\Users\danie\source\repos\jogodeplataforma\jogodeplataforma\bin\Debug\netcoreapp3.1\jogodeplataforma.deps.json
+C:\Users\danie\source\repos\jogodeplataforma\jogodeplataforma\bin\Debug\netcoreapp3.1\jogodeplataforma.runtimeconfig.json
+C:\Users\danie\source\repos\jogodeplataforma\jogodeplataforma\bin\Debug\netcoreapp3.1\jogodeplataforma.runtimeconfig.dev.json
+C:\Users\danie\source\repos\jogodeplataforma\jogodeplataforma\bin\Debug\netcoreapp3.1\jogodeplataforma.dll
+C:\Users\danie\source\repos\jogodeplataforma\jogodeplataforma\bin\Debug\netcoreapp3.1\jogodeplataforma.pdb
+C:\Users\danie\source\repos\jogodeplataforma\jogodeplataforma\obj\Debug\netcoreapp3.1\jogodeplataforma.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\jogodeplataforma\jogodeplataforma\obj\Debug\netcoreapp3.1\jogodeplataforma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\jogodeplataforma\jogodeplataforma\obj\Debug\netcoreapp3.1\jogodeplataforma.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\jogodeplataforma\jogodeplataforma\obj\Debug\netcoreapp3.1\jogodeplataforma.AssemblyInfo.cs
+C:\Users\danie\source\repos\jogodeplataforma\jogodeplataforma\obj\Debug\netcoreapp3.1\jogodeplataforma.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\jogodeplataforma\jogodeplataforma\obj\Debug\netcoreapp3.1\jogodeplataforma.dll
+C:\Users\danie\source\repos\jogodeplataforma\jogodeplataforma\obj\Debug\netcoreapp3.1\jogodeplataforma.pdb
+C:\Users\danie\source\repos\jogodeplataforma\jogodeplataforma\obj\Debug\netcoreapp3.1\jogodeplataforma.genruntimeconfig.cache
